@@ -1,0 +1,6 @@
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\bin\Debug\DuPontChallenge.exe.config
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\bin\Debug\DuPontChallenge.exe
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\bin\Debug\DuPontChallenge.pdb
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\obj\Debug\DuPontChallenge.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\obj\Debug\DuPontChallenge.exe
+c:\users\jacob\documents\visual studio 2015\Projects\DuPontChallenge\DuPontChallenge\obj\Debug\DuPontChallenge.pdb
